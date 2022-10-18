@@ -6,9 +6,9 @@ A password generator that will create a new password based on user's criteria. T
 N/A
 
 ## Links 
-- [Repo]()
+- [Repo](https://github.com/marissa-a-darr/Password-Generator)
 
-- [URL]()
+- [URL](https://marissa-a-darr.github.io/Password-Generator/)
 
 ## Screenshot 
 
